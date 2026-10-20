@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name" translatable="false">Painite Gear</string>
+
+    <string name="brand_painite" translatable="false">PAINITE</string>
+    <string name="brand_gear" translatable="false">GEAR</string>
+
+    <string name="menu_tag">SWAP • MATCH</string>
+    <string name="menu_play">PLAY</string>
+    <string name="menu_levels">LEVELS</string>
+    <string name="menu_shop">SHOP</string>
+    <string name="menu_profile">PROFILE</string>
+    <string name="daily_reward">DAILY REWARD</string>
+    <string name="daily_reward_claimed">+%d COINS</string>
+    <string name="daily_reward_not_ready">NEXT REWARD IN %s</string>
+    <string name="time_hours_minutes">%1$dH %2$dM</string>
+    <string name="time_minutes">%dM</string>
+
+    <string name="not_enough_coins">NOT ENOUGH COINS</string>
+
+    <string name="settings_title">SETTINGS</string>
+    <string name="settings_music">Music</string>
+    <string name="settings_sound_effects">Sound Effects</string>
+    <string name="settings_vibration">Vibration</string>
+    <string name="settings_notifications">Notifications</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_restore_purchases">Restore Purchases</string>
+    <string name="language_code">EN</string>
+
+    <string name="shop_title">SHOP</string>
+    <string name="skin_equipped">EQUIPPED</string>
+    <string name="skin_owned">OWNED</string>
+
+    <string name="levels_title">LEVELS</string>
+    <string name="rules_button">RULES</string>
+
+    <string name="level_number">LEVEL %d</string>
+    <string name="game_score">SCORE</string>
+    <string name="game_moves">MOVES</string>
+    <string name="game_goal">GOAL</string>
+    <string name="game_hint">HINT</string>
+    <string name="game_shuffle">SHUFFLE</string>
+
+    <string name="pause_title">PAUSED</string>
+    <string name="pause_resume">RESUME</string>
+    <string name="pause_restart">RESTART</string>
+    <string name="pause_settings">SETTINGS</string>
+    <string name="pause_home">HOME</string>
+
+    <string name="result_level">LEVEL</string>
+    <string name="result_complete">COMPLETE</string>
+    <string name="result_failed">FAILED</string>
+    <string name="result_final_score">FINAL SCORE</string>
+    <string name="result_next_level">NEXT LEVEL</string>
+    <string name="result_retry">RETRY</string>
+    <string name="result_home">HOME</string>
+
+    <string name="profile_enter_name">TAP TO ENTER NAME</string>
+    <string name="profile_levels">LEVELS</string>
+    <string name="profile_best">BEST</string>
+    <string name="profile_coins">COINS</string>
+    <string name="profile_achievements">ACHIEVEMENTS</string>
+    <string name="profile_no_photo">NO PHOTO TAKEN</string>
+    <string name="profile_camera_denied">CAMERA PERMISSION DENIED</string>
+
+    <string name="achievement_first_match">First Match</string>
+    <string name="achievement_first_match_text">Make your first match</string>
+    <string name="achievement_combo_king">Combo King</string>
+    <string name="achievement_combo_king_text">Chain 5 combos</string>
+    <string name="achievement_flawless">Flawless</string>
+    <string name="achievement_flawless_text">Clear with moves left</string>
+    <string name="achievement_marathon">Marathon</string>
+    <string name="achievement_marathon_text">Play %d levels</string>
+
+    <string name="rules_title">RULES</string>
+    <string name="rules_how_to_play">HOW TO PLAY</string>
+    <string name="rules_how_to_play_text">Swap two neighbouring gems to line up 3 or more of the same colour. Matched gems disappear and new ones fall from above.</string>
+    <string name="rules_goal">GOAL</string>
+    <string name="rules_goal_text">Every level asks you to collect gems of one colour in %d moves. The goal grows by one gem every 4 levels.</string>
+    <string name="rules_stars">STARS</string>
+    <string name="rules_stars_text">Collect the whole goal for 3 stars, at least half of it for 2 stars, less than half for 1 star. Collect nothing and the level is failed.</string>
+    <string name="rules_score">SCORE</string>
+    <string name="rules_score_text">Every gem gives 10 points, a line of 4 gives 50 more, a line of 5 gives 100 more. New matches from falling gems multiply the points. Every move left after the goal is done gives 50 points.</string>
+    <string name="rules_coins">COINS</string>
+    <string name="rules_coins_text">Every star gives 50 coins, also when you play a level again.</string>
+    <string name="rules_daily_reward">DAILY REWARD</string>
+    <string name="rules_daily_reward_text">Tap DAILY REWARD in the menu once a day to get %1$d coins. A new reward is ready every day at midnight. Turn on Notifications in the settings to get a reminder at %2$d:00 the next morning.</string>
+    <string name="rules_hint_shuffle">HINT &amp; SHUFFLE</string>
+    <string name="rules_hint_shuffle_text">HINT shows a possible move for %1$d coins. SHUFFLE mixes the board for %2$d coins.</string>
+    <string name="rules_skins">SKINS</string>
+    <string name="rules_skins_text">Buy skins in the shop. Gems of your skin\'s colour give double points.</string>
+    <string name="rules_levels">LEVELS</string>
+    <string name="rules_levels_text">Get at least 1 star to open the next level. There are %d levels to play.</string>
+
+    <string name="notification_channel">Daily reward</string>
+    <string name="notification_title">Your daily reward is ready!</string>
+    <string name="notification_text">Come back and claim %d coins</string>
+</resources>

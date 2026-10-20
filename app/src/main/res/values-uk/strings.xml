@@ -1,0 +1,92 @@
+<resources>
+    <string name="menu_tag">МІНЯЙ • ЗБИРАЙ</string>
+    <string name="menu_play">ГРАТИ</string>
+    <string name="menu_levels">РІВНІ</string>
+    <string name="menu_shop">МАГАЗИН</string>
+    <string name="menu_profile">ПРОФІЛЬ</string>
+    <string name="daily_reward">ЩОДЕННА НАГОРОДА</string>
+    <string name="daily_reward_claimed">+%d МОНЕТ</string>
+    <string name="daily_reward_not_ready">НАСТУПНА НАГОРОДА ЧЕРЕЗ %s</string>
+    <string name="time_hours_minutes">%1$dГ %2$dХВ</string>
+    <string name="time_minutes">%dХВ</string>
+
+    <string name="not_enough_coins">НЕДОСТАТНЬО МОНЕТ</string>
+
+    <string name="settings_title">НАЛАШТУВАННЯ</string>
+    <string name="settings_music">Музика</string>
+    <string name="settings_sound_effects">Звукові ефекти</string>
+    <string name="settings_vibration">Вібрація</string>
+    <string name="settings_notifications">Сповіщення</string>
+    <string name="settings_language">Мова</string>
+    <string name="settings_restore_purchases">Відновити покупки</string>
+    <string name="language_code">UA</string>
+
+    <string name="shop_title">МАГАЗИН</string>
+    <string name="skin_equipped">ОБРАНО</string>
+    <string name="skin_owned">КУПЛЕНО</string>
+
+    <string name="levels_title">РІВНІ</string>
+    <string name="rules_button">ПРАВИЛА</string>
+
+    <string name="level_number">РІВЕНЬ %d</string>
+    <string name="game_score">РАХУНОК</string>
+    <string name="game_moves">ХОДИ</string>
+    <string name="game_goal">ЦІЛЬ</string>
+    <string name="game_hint">ПІДКАЗКА</string>
+    <string name="game_shuffle">ПЕРЕМІШАТИ</string>
+
+    <string name="pause_title">ПАУЗА</string>
+    <string name="pause_resume">ПРОДОВЖИТИ</string>
+    <string name="pause_restart">СПОЧАТКУ</string>
+    <string name="pause_settings">НАЛАШТУВАННЯ</string>
+    <string name="pause_home">МЕНЮ</string>
+
+    <string name="result_level">РІВЕНЬ</string>
+    <string name="result_complete">ПРОЙДЕНО</string>
+    <string name="result_failed">ПРОВАЛЕНО</string>
+    <string name="result_final_score">ПІДСУМОК</string>
+    <string name="result_next_level">ДАЛІ</string>
+    <string name="result_retry">ЩЕ РАЗ</string>
+    <string name="result_home">МЕНЮ</string>
+
+    <string name="profile_enter_name">НАТИСНИ, ЩОБ ВВЕСТИ ІМ\'Я</string>
+    <string name="profile_levels">РІВНІ</string>
+    <string name="profile_best">РЕКОРД</string>
+    <string name="profile_coins">МОНЕТИ</string>
+    <string name="profile_achievements">ДОСЯГНЕННЯ</string>
+    <string name="profile_no_photo">ФОТО НЕ ЗРОБЛЕНО</string>
+    <string name="profile_camera_denied">НЕМАЄ ДОЗВОЛУ НА КАМЕРУ</string>
+
+    <string name="achievement_first_match">Перший збіг</string>
+    <string name="achievement_first_match_text">Збери перший ряд</string>
+    <string name="achievement_combo_king">Король комбо</string>
+    <string name="achievement_combo_king_text">Зроби 5 каскадів</string>
+    <string name="achievement_flawless">Бездоганно</string>
+    <string name="achievement_flawless_text">Пройди рівень із запасом ходів</string>
+    <string name="achievement_marathon">Марафон</string>
+    <string name="achievement_marathon_text">Пройди %d рівнів</string>
+
+    <string name="rules_title">ПРАВИЛА</string>
+    <string name="rules_how_to_play">ЯК ГРАТИ</string>
+    <string name="rules_how_to_play_text">Міняй місцями два сусідні камені, щоб вишикувати в ряд 3 або більше однакових. Зібрані камені зникають, а зверху падають нові.</string>
+    <string name="rules_goal">ЦІЛЬ</string>
+    <string name="rules_goal_text">На кожному рівні треба зібрати камені одного кольору за %d ходи. Ціль зростає на один камінь кожні 4 рівні.</string>
+    <string name="rules_stars">ЗІРКИ</string>
+    <string name="rules_stars_text">Збери всю ціль — 3 зірки, хоча б половину — 2 зірки, менше половини — 1 зірка. Не зібрав нічого — рівень провалено.</string>
+    <string name="rules_score">ОЧКИ</string>
+    <string name="rules_score_text">Кожен камінь дає 10 очок, ряд із 4 — ще 50, ряд із 5 — ще 100. Нові збіги від каменів, що падають, множать очки. Кожен хід, що залишився після виконання цілі, дає 50 очок.</string>
+    <string name="rules_coins">МОНЕТИ</string>
+    <string name="rules_coins_text">Кожна зірка дає 50 монет, навіть коли переграєш рівень.</string>
+    <string name="rules_daily_reward">ЩОДЕННА НАГОРОДА</string>
+    <string name="rules_daily_reward_text">Раз на день натискай «ЩОДЕННА НАГОРОДА» в меню й отримуй %1$d монет. Нова нагорода з\'являється щодня опівночі. Увімкни сповіщення в налаштуваннях — і наступного ранку о %2$d:00 прийде нагадування.</string>
+    <string name="rules_hint_shuffle">ПІДКАЗКА І ПЕРЕМІШУВАННЯ</string>
+    <string name="rules_hint_shuffle_text">ПІДКАЗКА показує можливий хід за %1$d монет. ПЕРЕМІШАТИ змішує поле за %2$d монет.</string>
+    <string name="rules_skins">СКІНИ</string>
+    <string name="rules_skins_text">Купуй скіни в магазині. Камені кольору твого скіна дають подвійні очки.</string>
+    <string name="rules_levels">РІВНІ</string>
+    <string name="rules_levels_text">Отримай хоча б 1 зірку, щоб відкрити наступний рівень. Усього рівнів — %d.</string>
+
+    <string name="notification_channel">Щоденна нагорода</string>
+    <string name="notification_title">Щоденна нагорода чекає!</string>
+    <string name="notification_text">Повертайся та забери %d монет</string>
+</resources>
