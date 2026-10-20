@@ -72,6 +72,7 @@ fun SettingsUiEventsHandler(navController: NavController) {
             } else {
                 viewModel.handleIntent(SettingsIntent.SetNotifications(on))
             }
-        }
+        },
+        onWebViewClick = { viewModel.handleIntent(SettingsIntent.OpenWebView) }
     )
 }
